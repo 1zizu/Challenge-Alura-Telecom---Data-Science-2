@@ -128,11 +128,20 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-# 👨‍💻 Autor
+## 👨‍💻 Autor
 
-Projeto desenvolvido como parte dos desafios de **Data Science da Alura**.
+<p align="center">
+  <img src="https://github.com/1zizu.png" width="120">
+</p>
 
-GitHub:  
-https://github.com/1zizu
+<p align="center">
+  <b>Humberto Filho</b><br>
+  Estudante de Data Science<br>
+  Python • Análise de Dados • Machine Learning
+</p>
+
+<p align="center">
+  <a href="https://github.com/1zizu">GitHub</a>
+</p>
 
 
